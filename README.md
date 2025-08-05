@@ -39,7 +39,6 @@ Whether you're exploring compiler fundamentals or refining parsing techniques, t
 - `iostream`  
 - `string`  
 - `stack`  
-- `stdexcept`  
 - `cctype`
 
 **Tools Used:**  
