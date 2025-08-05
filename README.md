@@ -194,4 +194,4 @@ Aradhya Verma C++ Developer | Codtech Intern – Task 4 Specialized in writing m
 
 ### 🔗 Gallerry
 
-https://github.com/aradh-12/FILE-MANAGEMENT-TOOL/issues/1
+https://github.com/aradh-12/COMPILER-DESIGN-BASICS/issues/1
